@@ -13,7 +13,6 @@
 　　　　　　　
 　　　˚　　　　　　　　ﾟ　　　　　.
 　.⠀　　⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀,
-　　　*　　⠀.
 　**Simple Portfolio / Organisation Project. ⠀**
 　˚　　　　　　　　　　　　　　*
 .⠀ 　　　　　　　　　　.　　　　　　　　.
