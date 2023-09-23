@@ -9,8 +9,6 @@
 　　　　　　*⠀　　⠀  　　　　　⠀✦⠀　
 　　　　　　*　　　　　　　　　　　　　　　　　　.
 　　　　.　　　　.　　　⠀
-　　　　　　　　　　　.
-　　　　　　　
 **Simple Portfolio / Organisation Project. ⠀**
 　˚　　　　　　　　　　　　　　*
 .⠀ 　　　　　　　　　　.　　　　　　　　.
