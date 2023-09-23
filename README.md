@@ -11,9 +11,7 @@
 　　　　.　　　　.　　　⠀
 　　　　　　　　　　　.
 　　　　　　　
-　　　˚　　　　　　　　ﾟ　　　　　.
-　.⠀　　⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀,
-　**Simple Portfolio / Organisation Project. ⠀**
+**Simple Portfolio / Organisation Project. ⠀**
 　˚　　　　　　　　　　　　　　*
 .⠀ 　　　　　　　　　　.　　　　　　　　.
 　　　　　✦⠀　   　　　,　　    　　　　　　　　.
